@@ -1,0 +1,32 @@
+body{
+    background-image: url("https://www.pixelstalk.net/wp-content/uploads/2016/05/Abstract-music-wallpapers-HD.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: 0;
+}
+
+.heading {
+    width: 100%;
+    margin-top: 0px;
+}
+
+#note{
+    font-weight: bold;
+    color:black;
+}
+
+#header{
+    color:brown;
+    font-weight: bolder;
+    font-style:italic;
+}
+
+#play_button{
+    background-color: blue;
+    margin-top: 10px;
+}
+
+canvas {
+    margin-top: 60px;
+    position: center;
+}
